@@ -1,0 +1,3 @@
+/home/buzz/cmake/CMakeFiles/rebuild_cache.dir
+/home/buzz/cmake/CMakeFiles/DisplayImage.dir
+/home/buzz/cmake/CMakeFiles/edit_cache.dir
